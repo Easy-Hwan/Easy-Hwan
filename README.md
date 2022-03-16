@@ -58,13 +58,13 @@
 <h3 align="center">💡 Mt Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/Easy-Hwan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby" />
   </a>
 </p>
 <h3 align="center">💡 Mt Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Easy-Hwan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
 <p align="center">
