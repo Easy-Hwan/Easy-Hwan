@@ -55,19 +55,19 @@
   <a href="https://www.instagram.com/easyhawn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/easyhawn/"/></a>&nbsp
   <a href="mailto:easyhwan97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=easyhwan97@gmail.com"/></a>
 </p>
-<h3 align="center">💡 Mt Most Used Languages 💡</h3>
+<h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/Easy-Hwan">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby" />
   </a>
 </p>
-<h3 align="center">💡 Mt Git Stats 💡</h3>
+<h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Easy-Hwan">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
-<h3 align="center">💡 Mt Git View Count 💡</h3>
+<h3 align="center">💡 My Git View Count 💡</h3>
 <p align="center">
  <!-- Blog View Count -->
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40easyhwan&count_bg=%2357C2A0&title_bg=%230A8A5A&icon=bloglovin.svg&icon_color=%23FFFFFF&title=Blog&edge_flat=false"/></a> -->
