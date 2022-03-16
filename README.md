@@ -26,13 +26,13 @@
   <img src="https://img.shields.io/badge/Sequelize-A8B9CC?style=flat&logo=Sequelize&logoColor=white"/></a>&nbsp 
 </p>
   
-<h3 align="center">💽 Ect Tech Stack 💽</h3>
+<h3 align="center">📎 Ect Tech Stack 📎</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-DB3552?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🍳 Front Tech Stack 🍳</h3>
+<h3 align="center">📺 Front Tech Stack 📺</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ejs-00599C?style=fla&logo=AzurePipelines&logoColor=white"/></a>&nbsp
