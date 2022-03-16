@@ -1,1 +1,3 @@
-![image](https://user-images.githubusercontent.com/78800929/158295568-862cf912-a61d-4786-9ccb-2e9d0a6301ef.png)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=EasyHwan&fontSize=70&animation=twinkling)
+
+<p align="center">🇰🇷</p>
