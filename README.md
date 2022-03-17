@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 
-<h2 align="center"> 👋,Hi! I'm Jihwan!🤗</h2>
+<h2 align="center"> Hi👋, I'm Jihwan!🤗</h2>
 <h3 align="center">I am junior back-end developer who love development</h3>
 <p align="center">
   I believe in the strength of communication and collaboration<br/>
