@@ -69,8 +69,12 @@
 </p>
 <h3 align="center">🌈 Current page design story 🌈</h3>
 <div align="center" style="text-align:center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=easyhwan&tag=GitHub-나의-깃허브-대문-꾸미기)](https://velog.io/@easyhwan)
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=easyhwan&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+  
 </div>
+  
+<br>
 <h3 align="center">💡 My Git View Count 💡</h3>
 <p align="center">
  <!-- Blog View Count -->
