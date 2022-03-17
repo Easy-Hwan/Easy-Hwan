@@ -70,7 +70,7 @@
 <h3 align="center">🌈 Current page design story 🌈</h3>
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=easyhwan&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=easyhwan&tag=readme&color=dark)](https://github.com/eungyeole/velog-readme-stats)
   
 </div>
   
