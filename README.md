@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 
 <h2 align="center"> Hi👋, I'm Jihwan!🤗</h2>
 <h3 align="center">I am junior back-end developer who love development</h3>
@@ -82,3 +82,5 @@
 <!-- Git View Count -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
