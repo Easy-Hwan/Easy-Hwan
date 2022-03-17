@@ -28,7 +28,7 @@
   
 <h3 align="center">📎 Ect Tech Stack 📎</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-DB3552?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
 
