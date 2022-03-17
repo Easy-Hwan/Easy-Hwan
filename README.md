@@ -67,6 +67,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
+<h3 align="center">🌈 Current page design story 🌈</h3>
+<div align="center" style="text-align:center">
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=easyhwan&tag=GitHub-나의-깃허브-대문-꾸미기)](https://velog.io/@easyhwan)
+</div>
 <h3 align="center">💡 My Git View Count 💡</h3>
 <p align="center">
  <!-- Blog View Count -->
